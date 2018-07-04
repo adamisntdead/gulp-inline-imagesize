@@ -9,9 +9,6 @@
 		"email": "adam.guitar12@gmail.com",
 		"url": "https://adamisntdead.com"
 	},
-	"files": [
-		"index.js"
-	],
 	"keywords": [
 		"gulpplugin"
 	],
