@@ -1,6 +1,9 @@
 # gulp-inline-imagesize
 > Make comments in your HTML with the size of your images 
 
+[![npm](https://img.shields.io/npm/v/gulp-inline-imagesize.svg)](https://www.npmjs.com/package/gulp-inline-imagesize)
+
+
 
 ## Install
 
