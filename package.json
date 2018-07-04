@@ -1,6 +1,6 @@
 {
 	"name": "gulp-inline-imagesize",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A Gulp Plugin To Comment The Dimensions Of Images In Your HTML",
 	"license": "MIT",
 	"repository": "adamisntdead/gulp-inline-imagesize",

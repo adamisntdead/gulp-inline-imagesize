@@ -43,7 +43,9 @@ module.exports = (filepath, contents) => {
       )
     ])
     .forEach(replacement => {
-      contents = contents.replace(...replacement)
+      contents = contents
+        .replace(replacement[1], replacement[0])
+        .replace(...replacement)
     })
 
   return contents
