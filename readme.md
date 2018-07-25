@@ -2,7 +2,7 @@
 > Make comments in your HTML with the size of your images 
 
 [![npm](https://img.shields.io/npm/v/gulp-inline-imagesize.svg)](https://www.npmjs.com/package/gulp-inline-imagesize)
-
+[![Build Status](https://travis-ci.org/adamisntdead/gulp-inline-imagesize.svg?branch=dev)](https://travis-ci.org/adamisntdead/gulp-inline-imagesize)
 
 
 ## Install
